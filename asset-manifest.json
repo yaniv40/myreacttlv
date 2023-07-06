@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myreacttlv/static/css/main.073c9b0a.css",
+    "main.js": "/myreacttlv/static/js/main.d537eb68.js",
+    "static/js/787.10e1fe91.chunk.js": "/myreacttlv/static/js/787.10e1fe91.chunk.js",
+    "index.html": "/myreacttlv/index.html",
+    "main.073c9b0a.css.map": "/myreacttlv/static/css/main.073c9b0a.css.map",
+    "main.d537eb68.js.map": "/myreacttlv/static/js/main.d537eb68.js.map",
+    "787.10e1fe91.chunk.js.map": "/myreacttlv/static/js/787.10e1fe91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d537eb68.js"
+  ]
+}
